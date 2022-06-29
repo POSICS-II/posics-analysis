@@ -1,0 +1,11 @@
+name: posics-analysis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - python=3.10
+  - scipy
+  - tensorflow
+  - tqdm
